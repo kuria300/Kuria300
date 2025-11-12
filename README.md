@@ -1,17 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Eugene Kuria
 
 I'm a **Full-Stack Web Developer** passionate about building high-performance, user-friendly, and scalable web applications.  
 I specialize in both **backend** and **frontend** development — creating seamless experiences from server to screen.  
-
----
-
-## 🧠 About Me
-
-- 💻 Skilled in **Express.js**, **Node.js**, and **Django (Python)** for backend development  
-- 🌐 Experienced with modern frontend frameworks like **Next.js** and **React**  
-- ⚡ Enthusiastic about clean architecture, efficient APIs, and responsive UIs  
-- 🎯 Always learning, improving, and exploring new web technologies  
-- 🧩 I enjoy solving complex problems and turning ideas into working products  
 
 ---
 
@@ -42,9 +32,8 @@ I specialize in both **backend** and **frontend** development — creating seaml
 ---
 
 ## 📫 Connect with Me
-- 🌍 Portfolio: [your-portfolio-link](#)
-- 💼 LinkedIn: [your-linkedin-link](#)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [www.linkedin.com/in/kuria300-376177245](#)
+- 📧 Email: [eugenekuria66@gmail.com]
 
 ---
 
