@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eugene Kuria
 
 I'm a **Full-Stack Web Developer** passionate about building high-performance, user-friendly, and scalable web applications.  
-I specialize in both **backend** and **frontend** development — creating seamless experiences from server to screen.  
+I specialize in both **backend** and **frontend** development and version control systems — creating seamless experiences from server to screen.  
 
 ---
 
