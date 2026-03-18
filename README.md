@@ -56,6 +56,13 @@ I specialize in both **backend** and **frontend** development and version contro
 
 ---
 
+### 🚀 DevOps
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="padding:10px;" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" style="padding:10px;" alt="Kubernetes" />
+</p>
+
+
 ## 🚀 What I Do
 - Develop RESTful and full-stack web apps  
 - Design scalable backend APIs with Express.js or Django  
