@@ -51,7 +51,7 @@ I specialize in both **backend** and **frontend** development and version contro
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="padding:10px;" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" style="padding:10px;" alt="SQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="padding:10px;" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="padding:10px;" alt="PostgreSQL" />
 </p>
 
 ---
