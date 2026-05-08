@@ -1,7 +1,7 @@
 # 👋 Hi, I'm kuria3000
 
-I'm a **Full-Stack Web Developer** passionate about building user-friendly, and scalable web applications.
----
+I'm a **Full-Stack Web Developer** passionate about building user-friendly, fast and scalable web applications.
+
 
 ## 🧰 Tech Stack
 
@@ -39,7 +39,7 @@ I'm a **Full-Stack Web Developer** passionate about building user-friendly, and 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="padding:10px;" alt="Express.js" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="padding:10px;" alt="Django" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="padding:10px;" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" style="padding:10px;" alt="Flask" />
+  <img src="https://img.shields.io/badge/Flask-2D3748?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
 ---
