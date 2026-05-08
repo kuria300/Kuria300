@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Eugene Kuria
+# 👋 Hi, I'm kuria3000
 
-I'm a **Full-Stack Web Developer** passionate about building high-performance, user-friendly, and scalable web applications.  
-I specialize in both **backend** and **frontend** development and version control systems — creating seamless experiences from server to screen.  
-
+I'm a **Full-Stack Web Developer** passionate about building user-friendly, and scalable web applications.
 ---
 
 ## 🧰 Tech Stack
@@ -11,8 +9,6 @@ I specialize in both **backend** and **frontend** development and version contro
 
 **Languages**  
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="padding:20px;" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding:20px;" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"alt="TypeScript" />
 </p>
@@ -43,6 +39,7 @@ I specialize in both **backend** and **frontend** development and version contro
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="padding:10px;" alt="Express.js" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="padding:10px;" alt="Django" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="padding:10px;" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" style="padding:10px;" alt="Flask" />
 </p>
 
 ---
@@ -62,14 +59,6 @@ I specialize in both **backend** and **frontend** development and version contro
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" style="padding:10px;" alt="Kubernetes" />
 </p>
 
-
-## 🚀 What I Do
-- Develop RESTful and full-stack web apps  
-- Design scalable backend APIs with Express.js or Django  
-- Build fast, modern frontends with React and Next.js  
-- Integrate databases and authentication systems  
-
----
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: [www.linkedin.com/in/kuria300-376177245](#)
