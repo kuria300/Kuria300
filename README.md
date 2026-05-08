@@ -66,4 +66,4 @@ I'm a **Full-Stack Web Developer** passionate about building user-friendly, fast
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
+⭐️ *“Simplicity is the soul of efficient code.”*
