@@ -1,4 +1,4 @@
-## 👋 Hi, I'm kuria3000
+## Hi, I'm kuria3000
  
 #### Software Engineer
  
