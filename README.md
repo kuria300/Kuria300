@@ -1,6 +1,6 @@
-## Hi, I'm kuria
+## Hi, I'm Eugene kuria
  
-#### Software Engineer
+#### Software Engineer 
  
 I build user-friendly and scalable web applications from the interface all the way down to the infrastructure it runs on.
  
